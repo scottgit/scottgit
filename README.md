@@ -5,10 +5,21 @@ I'm glad you are interested in me! Here are some points that highlight my divers
 ## The Technical Highlights
 
 - Currently, I am a student (🌱) of [**App Academy**](https://www.appacademy.io/) (on GitHub [@appacademy](https://github.com/appacademy)), working (🔭) to become a **full-stack software engineer**. So far a short list of relevant things learned are:
+   - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   - [Python](https://www.python.org/)
+   - [React](https://reactjs.org/)
+   - [Redux](https://redux.js.org/)
+   - [Flask](https://palletsprojects.com/p/flask/)
+   - [SQLAlchemy](https://www.sqlalchemy.org/)
    - [Node.js](https://nodejs.org/)
+   - [Express](http://expressjs.com/)
+   - [Sequelize](https://sequelize.org/)
+   - [PostgreSQL](https://www.postgresql.org/)
+   - [Pug](https://pugjs.org/api/getting-started.html)
+   - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
    - Use of [npm](https://www.npmjs.com/) 
-   - Javascript
    - Unit Testing (with [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/))
+   
 - I have a past background in (primarily) self-taught **HTML** and **CSS** (currently still [ranking fairly high](https://data.stackexchange.com/stackoverflow/query/52750/tag-rankings-fun) (put TagName = css and UserId = 0 for all user ranking; as of 9/2/12020 I was 30th) for answering CSS questions on Stack Overflow; my [**SO profile**](https://stackoverflow.com/users/369707/scotts)).
 - I also have some prior self-taught experience with **JavaScript** (including some libraries, like [MooTools](https://mootools.net/) and [Bootstrap](https://getbootstrap.com/)); but I'm learning much more through App Academy!
 - I also have dabbled in some [**PHP**](https://www.php.net/) (mainly related to [**Wordpress**](https://wordpress.org/) sites).
