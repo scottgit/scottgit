@@ -1,6 +1,6 @@
-# About Scott Smith (a.k.a. scottgit here on GitHub)
+# About Scott Smith
 
-I'm glad you are interested in me! Here are some points that highlight my diverse background and that may be of interest to you. You might be interested as well in my [LinkedIn profile](https://www.linkedin.com/in/one-scott-smith/).
+I'm glad you are interested in me! Here are some points that highlight my diverse background and that may be of interest to you. You might be interested as well in my [LinkedIn profile](https://www.linkedin.com/in/one-scott-smith/) or my [AngelList profile](https://angel.co/u/scott-smith-152).
 
 ## The Technical Highlights
 
@@ -20,7 +20,7 @@ I'm glad you are interested in me! Here are some points that highlight my divers
    - Use of [npm](https://www.npmjs.com/) 
    - Unit Testing (with [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/))
    
-- I have a past background in (primarily) self-taught **HTML** and **CSS** (currently still [ranking fairly high](https://data.stackexchange.com/stackoverflow/query/52750/tag-rankings-fun) (put TagName = css and UserId = 0 for all user ranking; as of 9/2/12020 I was 30th) for answering CSS questions on Stack Overflow; my [**SO profile**](https://stackoverflow.com/users/369707/scotts)).
+- I have a past background in (primarily) self-taught **HTML** and **CSS** (currently still [ranking fairly high](https://data.stackexchange.com/stackoverflow/query/52750/tag-rankings-fun) (put TagName = css and UserId = 0 for all user ranking; as of 9/2/2020 I was 30th) for answering CSS questions on Stack Overflow; my [**SO profile**](https://stackoverflow.com/users/369707/scotts)).
 - I also have some prior self-taught experience with **JavaScript** (including some libraries, like [MooTools](https://mootools.net/) and [Bootstrap](https://getbootstrap.com/)); but I'm learning much more through App Academy!
 - I also have dabbled in some [**PHP**](https://www.php.net/) (mainly related to [**Wordpress**](https://wordpress.org/) sites).
 
