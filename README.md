@@ -4,21 +4,21 @@ I'm glad you are interested in me! Here are some points that highlight my divers
 
 ## The Technical Highlights
 
-- Currently, I am a student (🌱) of [**App Academy**](https://www.appacademy.io/) (on GitHub [@appacademy](https://github.com/appacademy)), working (🔭) to become a **full-stack software engineer**. So far a short list of relevant things learned are:
-   - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-   - [Python](https://www.python.org/)
-   - [React](https://reactjs.org/)
-   - [Redux](https://redux.js.org/)
-   - [Flask](https://palletsprojects.com/p/flask/)
-   - [SQLAlchemy](https://www.sqlalchemy.org/)
-   - [Node.js](https://nodejs.org/)
-   - [Express](http://expressjs.com/)
-   - [Sequelize](https://sequelize.org/)
-   - [PostgreSQL](https://www.postgresql.org/)
-   - [Pug](https://pugjs.org/api/getting-started.html)
-   - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
-   - Use of [npm](https://www.npmjs.com/) 
-   - Unit Testing (with [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/))
+- I am a graduate of [**App Academy**](https://www.appacademy.io/) (on GitHub [@appacademy](https://github.com/appacademy)), trained as a **full-stack software engineer**. A list of relevant technologies learned were:
+   - [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   - [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
+   - [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
+   - [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />](https://redux.js.org/)
+   - [<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />](https://palletsprojects.com/p/flask/)
+   - [<img src="https://img.shields.io/badge/SQLAlchemy-B41717?style=for-the-badge&logoColor=black" />](https://www.sqlalchemy.org/)
+   - [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/)
+   - [<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />](http://expressjs.com/)
+   - [<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge" />](https://sequelize.org/)
+   - [<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
+   - [<img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logoColor=white" />](https://pugjs.org/api/getting-started.html)
+   - [<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />](https://jinja.palletsprojects.com/en/2.11.x/)
+   - [<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/) 
+   - [<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />](https://mochajs.org/) and [<img src="https://img.shields.io/badge/Chai-FAF4E8?style=for-the-badge&logoColor=#A40802" />](https://www.chaijs.com/) (Unit Testing)
    
 - I have a past background in (primarily) self-taught **HTML** and **CSS** (currently still [ranking fairly high](https://data.stackexchange.com/stackoverflow/query/52750/tag-rankings-fun) (put TagName = css and UserId = 0 for all user ranking; as of 9/2/2020 I was 30th) for answering CSS questions on Stack Overflow; my [**SO profile**](https://stackoverflow.com/users/369707/scotts)).
 - I also have some prior self-taught experience with **JavaScript** (including some libraries, like [MooTools](https://mootools.net/) and [Bootstrap](https://getbootstrap.com/)); but I'm learning much more through App Academy!
@@ -38,6 +38,9 @@ I'm glad you are interested in me! Here are some points that highlight my divers
 - I enjoy walking, **hiking**, and riding bikes.
 - I grew up in Oregon, have lived in Florida and North Carolina, and currently am in the state of **Washington**.
 - In today's world, you may want to know that I identify as **he/his/him** for my pronouns.
+
+## Some Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottgit&count_private=true&show_icons=true)](https://github.com/scottgit/github-readme-stats)
 
 <!--
 **scottgit/scottgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
