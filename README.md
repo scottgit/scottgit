@@ -5,7 +5,8 @@ I'm glad you are interested in me! Here are some points that highlight my divers
 ## The Technical Highlights
 
 - I am a graduate of [**App Academy**](https://www.appacademy.io/) (on GitHub [@appacademy](https://github.com/appacademy)), trained as a **full-stack software engineer**. A list of relevant technologies learned were:
-   - [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   <!-- <img width="100%" src="./technology.svg" /> -->
+    - [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    - [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
    - [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
    - [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />](https://redux.js.org/)
