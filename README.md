@@ -1,6 +1,6 @@
 # About Scott Smith
 
-I'm glad you are interested in me! Here are some points that highlight my diverse background and that may be of interest to you. You might be interested as well in my [LinkedIn profile](https://www.linkedin.com/in/one-scott-smith/) or my [AngelList profile](https://angel.co/u/scott-smith-152).
+I'm glad you are interested in me! Here are some points that highlight my diverse background and that may be of interest to you. You might be interested as well in my [LinkedIn profile](https://www.linkedin.com/in/one-scott-smith/) or my [AngelList profile](https://angel.co/u/scott-smith-152) or [my portfolio](https://scottgit.github.io/).
 
 ## The Technical Highlights
 
