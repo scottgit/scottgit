@@ -2,8 +2,18 @@
 
 I'm glad you are interested in me! Here are some points that highlight my diverse background and that may be of interest to you. You might be interested as well in my [LinkedIn profile](https://www.linkedin.com/in/one-scott-smith/) or my [AngelList profile](https://angel.co/u/scott-smith-152) or [my portfolio](https://scottgit.github.io/).
 
+## The Professional Highlights
+
+Since December 2021 I have worked at [Simple Fractal](https://simplefractal.com/), starting as a junior full-stack software engineer, quickly dropping the junior title, and now am working as a Bot Curator for the [RPA](https://simplefractal.com/faq/why-rpa/) ([Robotic Process Engineering](https://en.wikipedia.org/wiki/Robotic_process_automation)) side of the company. What is a Bot Curator? A fancy title for one who debugs software robots, monitors their health, and improves backend processes related to the RPA engineering team.
+
 ## The Technical Highlights
 
+- My RPA work for Simple Fractal primarily involves backend work:
+    - Heavy use of Javascript in a Node.js context
+    - Extensive interaction with AWS (lambdas, parameter store, cloud watch, event bridge, S3), including with serverless.yml files
+    - Regular use of SQL in PostgresSQL
+    - Some use of Python
+    - Occassional use of Docker
 - I am a graduate of [**App Academy**](https://www.appacademy.io/) (on GitHub [@appacademy](https://github.com/appacademy)), trained as a **full-stack software engineer**. A list of relevant technologies learned were:
    <!-- <img width="100%" src="./technology.svg" /> -->
    <!-- Badges done via https://github.com/alexandresanlim/Badges4-README.md-Profile -->
